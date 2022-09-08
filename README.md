@@ -5,7 +5,7 @@ Implements multidimensional arrays, dynamic memory allocation, and usage ofpoint
 Plethora of functions calculating matrix computations such as diagonal product and inverse of matrices
 
 To run: 
-open local terminal and change directory to Cprogram folder
+open local terminal and make sure matrix_utils.c is accessible
 
 in command line: 
 gcc matrix_utils.c -o matrix
