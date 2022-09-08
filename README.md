@@ -1,6 +1,6 @@
 # MatrixUtilities
 
-Implements multidimensional arrays, dynamic memory allocation, and usage ofpointers
+Implements multidimensional arrays, dynamic memory allocation, and usage of pointers
 
 Plethora of functions calculating matrix computations such as diagonal product and inverse of matrices
 
